@@ -1,0 +1,467 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"bg",
+				"bg-white"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"bg-",
+				"bg-success"
+			],
+			[
+				"loca",
+				"localint"
+			],
+			[
+				"quant",
+				"quantefe"
+			],
+			[
+				"con_re",
+				"con_referenciaate"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"fot",
+				"footer\tTag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"mssql_",
+				"mssql_fetch_assoc"
+			],
+			[
+				"mssql_fetch",
+				"mssql_fetch_assoc"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"co",
+				"compact"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Paulo/Desktop/Instructions.txt",
+			"settings":
+			{
+				"buffer_size": 971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Paulo/Desktop/documentation.md",
+			"settings":
+			{
+				"buffer_size": 3217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/WelcomeController.php",
+			"settings":
+			{
+				"buffer_size": 3983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 5904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/sites/bundesliga",
+		"/C/sites/bundesliga/app",
+		"/C/sites/bundesliga/app/Http",
+		"/C/sites/bundesliga/app/Http/Controllers",
+		"/C/sites/bundesliga/resources",
+		"/C/sites/bundesliga/resources/views",
+		"/C/sites/bundesliga/routes"
+	],
+	"file_history":
+	[
+		"/C/sites/bundesliga/public/css/principal.css",
+		"/C/sites/bundesliga/routes/web.php",
+		"/C/Users/Paulo/Desktop/documentation.md",
+		"/C/sites/bundesliga/app/Http/Controllers/Controller.php",
+		"/C/sites/precision/resources/views/layouts/layout.blade.php",
+		"/C/sites/precision/resources/views/home.blade.php",
+		"/Z/controle_saida_produtos/pages/navigation.php",
+		"/Z/controle_saida_produtos/pages/docsnewaba.php",
+		"/Z/controle_saida_produtos/pages/generatedoc.php",
+		"/Z/controle_saida_produtos/pages/conferir_leitor.php",
+		"/Z/controle_saida_produtos/pages/ajax/ajaxProjeto.php",
+		"/Z/controle_saida_produtos/pages/additem.php",
+		"/Z/controle_saida_produtos/pages/conferirdoc.php",
+		"/Z/controle_saida_produtos/pages/desmontar.php",
+		"/Z/controle_saida_produtos/pages/desmontar_item.php",
+		"/Z/controle_saida_produtos/pages/confirmadoc.php",
+		"/Z/controle_saida_produtos/pages/cadastradoc.php",
+		"/Z/controle_saida_produtos/pages/adddoc.php",
+		"/Z/controle_saida_produtos/pages/coletor.php",
+		"/Z/controle_saida_produtos/pages/guia_romaneio.php",
+		"/C/sites/precision/app/Http/Controllers/ClienteController.php",
+		"/C/sites/precision/database/migrations/2017_09_06_224227_create_clientes_table.php",
+		"/C/sites/precision/resources/views/clientes/form.blade.php",
+		"/C/sites/precision/resources/views/welcome.blade.php",
+		"/C/sites/precision-rails/app/assets/stylesheets/usuarios.scss",
+		"/C/sites/precision-rails/app/assets/stylesheets/application.scss",
+		"/C/sites/precision-rails/app/views/usuarios/index.html.erb",
+		"/C/sites/precision/resources/views/clientes/index.blade.php",
+		"/C/sites/precision/resources/views/clientes/create.blade.php",
+		"/C/sites/precision/resources/views/clientes/edit.blade.php",
+		"/C/sites/precision/app/Cliente.php",
+		"/C/sites/precision/routes/web.php",
+		"/C/sites/precision/config/app.php",
+		"/C/sites/precision/database/migrations/2017_09_13_203234_add_complemento_to_clientes_table.php",
+		"/Y/sql/romaneios/nota_fiscal.php",
+		"/Y/sql/romaneios/includes/functions.php",
+		"/Y/sql/romaneios/ajax/ajaxnotas.php",
+		"/Y/sql/romaneios/transicao.php",
+		"/C/sites/precision_old/lib/Formata.php",
+		"/Z/controle_saida_produtos/pages/estornatransf.php",
+		"/Y/sql/romaneios/ajax/ajaxtransferir.php",
+		"/Y/sql/romaneios/inicial.php",
+		"/Y/sql/romaneios/includes/filtro_transicao.php",
+		"/Y/sql/romaneios/novo.php",
+		"/Y/sql/romaneios/alterar.php",
+		"/Y/sql/romaneios/ajax/ajaxromaneios.php",
+		"/Y/sql/romaneios/index.php",
+		"/Y/sql/romaneios/teste.php",
+		"/Y/sql/romaneios/includes/cima.php",
+		"/Y/sql/romaneios/includes/cima_new.php",
+		"/Y/sql/romaneios/includes/dbconfig.php",
+		"/Y/sql/romaneios/ajax/ajaxuser.php",
+		"/Y/sql/romaneios/transicao/index.php",
+		"/Y/sql/romaneios/includes/menu.php",
+		"/C/sites/sgl/modules/agenda/index.php",
+		"/C/sites/sgl/modules/agenda/filtro.php",
+		"/C/sites/precision/resources/views/clientes/listarCliente.blade.php",
+		"/C/sites/precision/resources/views/clientes/manterCliente.blade.php",
+		"/C/sites/precision/resources/lang/pt/validation.php",
+		"/C/sites/precision/public/css/principal.css",
+		"/D/efi/microsoft/boot/cdboot_noprompt.efi",
+		"/D/efi/microsoft/boot/cdboot.efi",
+		"/C/sites/precision/resources/lang/en/validation.php",
+		"/C/sites/precision/app/Model.php",
+		"/C/sites/precision/app/User.php",
+		"/C/sites/precision/resources/views/layouts/navbar.blade.php",
+		"/C/sites/precision/database/migrations/2017_09_08_225400_add_cnpj_to_clientes_table.php",
+		"/C/Users/Paulo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/sites/precision/.env",
+		"/C/sites/precision/resources/views/layouts/footer.blade.php",
+		"/C/sites/precision/resources/views/layouts/sticky-footer-navbar.css",
+		"/C/sites/precision/public/favicon.ico",
+		"/C/sites/precision/controller/BancoController.php",
+		"/C/sites/precision/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Paulo/Desktop/Instructions.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Paulo/Desktop/documentation.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2487,
+								2487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/WelcomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1818,
+								1818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3085,
+								3085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bundesliga.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
